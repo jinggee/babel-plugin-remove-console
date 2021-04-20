@@ -29,5 +29,9 @@
     "lib/",
     "package.json",
     "README.md"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jinggee/babel-plugin-remove-console.git"
+  }
 }
