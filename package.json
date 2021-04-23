@@ -1,6 +1,6 @@
 {
   "name": "@clintech/babel-plugin-remove-console",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "remove all console.* calls",
   "main": "lib/index.js",
   "scripts": {
